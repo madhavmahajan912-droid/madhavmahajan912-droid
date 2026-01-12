@@ -3,14 +3,10 @@
 Email Me 👉 ✉️ **madhavmahajan912@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Python project 
-- 🌱 **I’m currently learning:** Seaborn 
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
+- 🌱 **I’m currently learning:** Data science
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** madhavmahajan912@gmail.com
-- 😄 **Pronouns:** madhav
-- ⚡ **Fun fact:** I Love Tech ⚡ Fun fact: ...
--->
+- ⚡ **Fun fact:** I Love Tech 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madhav-mahajan-5bbb6035a/?trk=opento_sprofile_topcard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manbhvmahajan04@gmail.com) 
