@@ -1,5 +1,4 @@
 # 💫 Hi 👋, Veg mahajan
-**I am Data science **
 
 Email Me 👉 ✉️ **madhavmahajan912@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
